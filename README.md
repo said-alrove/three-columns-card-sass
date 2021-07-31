@@ -8,8 +8,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://said-alrove.github.io/three-columns-card-sass/)
-- Live Site URL: [Add live site URL here](https://said-alrove.github.io/three-columns-card-sass/)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/3columncard-component-with-sass-using-the-smacss-methodology-M5rZwsCyJ)
+- [Github Live](https://said-alrove.github.io/three-columns-card-sass/)
 
 ## Author
 
