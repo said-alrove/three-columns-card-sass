@@ -9,7 +9,9 @@
     margin-inline: auto;
     inline-size: clamp(32rem, 90%, 94rem);
     @include thm.mx-query($device: 'tablet', $size: 'md') {
+        margin-block-start: 50vh;
         block-size: 50.5rem;
+        transform: translateY(-50%);
     }
 }
 

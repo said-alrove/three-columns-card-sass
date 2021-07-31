@@ -12,6 +12,9 @@ html {
 body {
     font-size: 16px;
     background-color: map.get(thm.$clr, 'gray-100');
+    @include thm.mx-query($device: 'tablet', $size: 'md') {
+        max-block-size: 110vh;
+    }
 }
 
 * {
