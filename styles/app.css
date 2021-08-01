@@ -143,7 +143,6 @@ p {
   border: 0.2rem solid #f2f2f2;
   border-radius: 2.5rem;
   background-color: #f2f2f2;
-  color: rgba(255, 255, 255, 0.75);
   cursor: pointer;
 }
 @media (min-width: 912px) {
