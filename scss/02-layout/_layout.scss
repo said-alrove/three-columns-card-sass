@@ -54,12 +54,7 @@
 //* .ATTRIBUTION
 //********************************
 .attribution {
-    position: absolute;
-    inset: {
-        block-start: 50%;
-        inline-start: 50%;
-    }
-    transform: translate(-50%, 1650%);
+    margin-block: 1.5rem;
     font: {
         family: map.get(thm.$ff, 'text');
         size: 1.4rem;

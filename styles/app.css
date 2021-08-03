@@ -109,10 +109,7 @@ p {
 }
 
 .attribution {
-  position: absolute;
-  inset-block-start: 50%;
-  inset-inline-start: 50%;
-  transform: translate(-50%, 1650%);
+  margin-block: 1.5rem;
   font-family: "Lexend Deca";
   font-size: 1.4rem;
   text-align: center;
